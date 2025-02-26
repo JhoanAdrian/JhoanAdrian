@@ -35,14 +35,12 @@
 
 
 <h3 align="center">Statistics</h3>
-<div style="display: flex; justify-content: center;">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoanadrian&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=35ff00&icon_color=35ff00&text_color=7cd066" alt="jhoanadrian" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoanadrian&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=7cd066&text_color=7cd066" alt="jhoanadrian" />
-  </p>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhoanadrian&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=35ff00&icon_color=35ff00&text_color=9f9f9f" alt="Jhoan Adrian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoanadrian&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=7cd06e&text_color=9f9f9f" alt="Top Languages" />
+</p>
+
 
 
 <div align="center">
