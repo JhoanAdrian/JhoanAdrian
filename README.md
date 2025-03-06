@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with **Improving my programming skills and learning new technologies|Connecting with people passionate about IT and development.**
 - ⚡ Fun fact **I'm always exploring new technologies and tools|I love understanding how computer systems work.**
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages, HTML and Tools</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
