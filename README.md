@@ -33,24 +33,20 @@
   </a> 
 </p>
 
-
 <h3 align="center">Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhoanadrian&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=35ff00&icon_color=35ff00&text_color=99e585" alt="Jhoan Adrian's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoanadrian&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=7cd06e&text_color=99e585" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhoanadrian&show_icons=true&locale=en&bg_color=00000000&hide_border=true&title_color=4329ff&icon_color=0d00ff&text_color=625afa" alt="Jhoan Adrian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoanadrian&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true&title_color=4329ff&text_color=6a91fc" alt="Top Languages" />
 </p>
 
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoanadrian&background=00000000&hide_border=true&stroke=00FF00&ring=c0ef00&fire=efd600&currStreakNum=9cef00&sideNums=9cef00&currStreakLabel=9cef00&sideLabels=9cef00&dates=beffad" alt="jhoanadrian" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhoanadrian&background=00000000&hide_border=true&stroke=0d00ff&ring=32287a&fire=0E5BCF&currStreakNum=5b45ff&sideNums=5b45ff&currStreakLabel=4329ff&sideLabels=2651ff&dates=6a91fc" alt="jhoanadrian" />
 </div>
-
 
 <hr style="width:100%;text-align:center;margin:auto;">
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jhoanadrian&theme=matrix&no-bg=true&no-frame=true&row=1&column=6" alt="jhoanadrian" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jhoanadrian&theme=algolia&no-bg=true&no-frame=true&row=1&column=6" alt="jhoanadrian" />
   </a> 
 </p>
